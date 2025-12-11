@@ -5,7 +5,7 @@
 3) sudo ./servidor.py
 ```
 #LAMP
->Instalar Linux *L* (ya lo tienes no hara nada)
->Instalar Apache2 *A*
->Instalar MysQl *M*
->Instalar PhpMyAdmin *P*
+* Instalar Linux *L* (ya lo tienes no hara nada)
+* Instalar Apache2 *A*
+* Instalar MysQl *M*
+* Instalar PhpMyAdmin *P*
